@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homeWork3_1</string>
+    <string name="examplegmail_com">examplegmail.com</string>
+    <string name="subject">subject</string>
+    <string name="text_here">text here</string>
+    <string name="send">send</string>
+    <string name="next">next</string>
+</resources>
